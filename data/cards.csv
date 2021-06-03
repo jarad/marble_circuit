@@ -13,7 +13,7 @@ Challenge 11,0,5,1,1,1,blank,yellow,pink,blank,blank,blue,orange,blank,orange,bl
 Challenge 12,0,1,5,2,0,blue,blank,blue,pink,blank,blue,blank,orange,yellow,blank,Scan 22.jpeg
 Challenge 13,0,2,2,4,0,blank,blank,yellow,blank,blue,pink,orange,pink,blank,yellow,Scan 24.jpeg
 Challenge 14,0,1,4,2,1,blank,yellow,blue,blank,pink,blank,pink,pink,blue,blank,Scan 26.jpeg
-"Challenge 15,",1,2,2,0,3,pink,blue,pink,blank,yellow,blank,blue,blank,yellow,blank,Scan 28.jpeg
+Challenge 15,1,2,2,0,3,pink,blue,pink,blank,yellow,blank,blue,blank,yellow,blank,Scan 28.jpeg
 Challenge 16,0,3,1,3,1,blank,blank,yellow,pink,pink,blank,blank,blue,orange,blue,Scan 30.jpeg
 Challenge 17,0,2,3,2,1,blank,yellow,blank,blue,pink,blank,blank,pink,blue,blue,Scan 32.jpeg
 Challenge 18,2,1,2,2,1,pink,blank,pink,yellow,orange,blank,blank,blue,blank,blue,Scan 34.jpeg
@@ -75,8 +75,8 @@ Solution 9,1,2,2,1,2,pink,pink,blue,yellow,yellow,pink,blue,orange,blue,orange,S
 Solution 10,1,2,2,2,1,pink,pink,pink,orange,orange,yellow,yellow,blue,blue,blue,Scan 19.jpeg
 Solution 11,0,5,1,1,1,yellow,yellow,pink,pink,pink,blue,orange,blue,orange,blue,Scan 21.jpeg
 Solution 12,0,1,5,2,0,blue,orange,blue,pink,pink,blue,pink,orange,yellow,yellow,Scan 23.jpeg
-"Solution 13,",0,2,2,4,0,orange,blue,yellow,blue,blue,pink,orange,pink,pink,yellow,Scan 25.jpeg
-"Solution 14,",0,1,4,2,1,yellow,yellow,blue,orange,pink,orange,pink,pink,blue,blue,Scan 27.jpeg
+Solution 13,0,2,2,4,0,orange,blue,yellow,blue,blue,pink,orange,pink,pink,yellow,Scan 25.jpeg
+Solution 14,0,1,4,2,1,yellow,yellow,blue,orange,pink,orange,pink,pink,blue,blue,Scan 27.jpeg
 Solution 15,1,2,2,0,3,pink,blue,pink,pink,yellow,orange,blue,blue,yellow,orange,Scan 29.jpeg
 Solution 16,0,3,1,3,1,yellow,blue,yellow,pink,pink,pink,orange,blue,orange,blue,Scan 31.jpeg
 Solution 17,0,2,3,2,1,yellow,yellow,orange,blue,pink,pink,orange,pink,blue,blue,Scan 33.jpeg
@@ -91,6 +91,7 @@ Solution 25,0,2,2,3,1,pink,blue,yellow,orange,blue,yellow,pink,pink,orange,blue,
 Solution 26,1,1,1,1,4,blue,orange,pink,blue,yellow,orange,pink,blue,yellow,pink,Scan 51.jpeg
 Solution 27,1,1,2,2,2,pink,yellow,yellow,blue,blue,orange,blue,pink,pink,orange,Scan 53.jpeg
 Solution 28,1,2,2,2,1,orange,orange,blue,pink,blue,pink,yellow,yellow,blue,pink,Scan 55.jpeg
+Solution 29,0,3,0,5,0,yellow,blue,blue,pink,pink,pink,orange,blue,orange,yellow,NA
 Solution 30,0,1,5,0,2,pink,yellow,blue,orange,blue,blue,pink,pink,yellow,orange,Scan 58.jpeg
 Solution 31,0,1,3,4,0,orange,yellow,blue,orange,blue,blue,pink,pink,pink,yellow,Scan 60.jpeg
 Solution 32,2,0,4,2,0,orange,blue,pink,blue,blue,yellow,yellow,orange,pink,pink,Scan 62.jpeg
@@ -104,7 +105,7 @@ Solution 39,0,1,5,0,2,yellow,yellow,blue,orange,blue,blue,pink,pink,pink,orange,
 Solution 40,0,2,1,4,1,yellow,orange,blue,pink,orange,blue,pink,yellow,pink,blue,Scan 78.jpeg
 Solution 41,0,1,4,3,0,yellow,orange,blue,pink,blue,yellow,pink,orange,blue,pink,Scan 80.jpeg
 Solution 42,1,2,0,2,3,orange,blue,orange,yellow,pink,pink,blue,yellow,blue,pink,Scan 82.jpeg
-Solution 43.,0,2,2,3,1,yellow,blue,yellow,blue,pink,blue,orange,orange,pink,pink,Scan 84.jpeg
+Solution 43,0,2,2,3,1,yellow,blue,yellow,blue,pink,blue,orange,orange,pink,pink,Scan 84.jpeg
 Solution 44,1,2,3,0,2,blue,yellow,blue,pink,orange,pink,blue,pink,yellow,orange,Scan 86.jpeg
 Solution 45,2,0,2,2,2,yellow,blue,blue,blue,orange,pink,yellow,pink,pink,orange,Scan 88.jpeg
 Solution 46,1,2,2,2,1,orange,orange,pink,blue,pink,pink,blue,yellow,yellow,blue,Scan 90.jpeg
@@ -114,6 +115,7 @@ Solution 49,0,1,3,4,0,blue,yellow,orange,orange,blue,yellow,pink,pink,blue,pink,
 Solution 50,0,1,4,1,2,yellow,yellow,blue,orange,blue,pink,pink,pink,blue,orange,Scan 98.jpeg
 Solution 51,1,2,0,2,3,orange,yellow,orange,blue,yellow,pink,pink,blue,blue,pink,Scan 100.jpeg
 Solution 52,0,2,2,3,1,yellow,blue,yellow,blue,orange,pink,orange,pink,pink,blue,Scan 102.jpeg
+Solution 53,1,0,3,2,2,pink,yellow,yellow,orange,blue,blue,blue,pink,pink,orange,NA
 Solution 54,2,2,0,2,2,blue,orange,yellow,blue,pink,blue,yellow,pink,pink,orange,Scan 106.jpeg
 Solution 55,0,2,1,5,0,yellow,blue,blue,blue,pink,yellow,orange,pink,orange,pink,Scan 108.jpeg
 Solution 56,2,0,5,0,1,orange,blue,yellow,blue,pink,pink,yellow,orange,pink,blue,Scan 110.jpeg
@@ -121,9 +123,7 @@ Solution 57,0,3,0,4,1,orange,pink,orange,pink,yellow,blue,pink,yellow,blue,blue,
 Solution 58,2,1,4,1,0,blue,blue,orange,yellow,blue,yellow,pink,orange,pink,pink,Scan 114.jpeg
 Solution 59,1,1,3,0,3,yellow,yellow,blue,blue,pink,orange,pink,pink,blue,orange,Scan 116.jpeg
 Solution 60,2,0,1,3,2,yellow,blue,blue,blue,pink,orange,yellow,orange,pink,pink,Scan 118.jpeg
+Solution 61,2,1,3,2,0,orange,blue,yellow,blue,pink,pink,yellow,blue,orange,pink,NA
 Solution 62,2,2,2,0,2,blue,yellow,yellow,pink,pink,blue,pink,blue,orange,orange,Scan 121.jpeg
 Solution 63,2,4,0,0,2,orange,blue,yellow,yellow,pink,blue,pink,pink,blue,orange,Scan 123.jpeg
 Solution 64,2,2,3,1,0,blue,orange,orange,blue,blue,yellow,yellow,pink,pink,pink,Scan 125.jpeg
-Solution 29,0,3,0,5,0,yellow,blue,blue,pink,pink,pink,orange,blue,orange,yellow,NA
-Solution 53,1,0,3,2,2,pink,yellow,yellow,orange,blue,blue,blue,pink,pink,orange,NA
-Solution 61,2,1,3,2,0,orange,blue,yellow,blue,pink,pink,yellow,blue,orange,pink,NA
